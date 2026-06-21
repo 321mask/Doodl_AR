@@ -113,22 +113,6 @@ Third, the AR layer is built around **honest state**. The `SpawnState` machine n
 
 It's the same lesson good real-time engineering teaches anywhere: the thing that defines the product isn't a screen the user looks at — it's a property of the system that has to hold true in the half-second between a drawing on paper and a creature in their room.
 
-## Screens
-
-<p>
-<img src="assets/scan.png" width="240" alt="Camera view scanning a paper drawing">
-<img src="assets/spawn.png" width="240" alt="Spawn morph animation transitioning sketch into 3D creature">
-<img src="assets/dog-radial.png" width="240" alt="Radial menu around the dog showing Sit, Wave, Chase Ball, Go to Tent">
-<img src="assets/collection.png" width="240" alt="Personal collection of discovered creatures">
-</p>
-
-| Screen | What it shows |
-| --- | --- |
-| **Scan** | Live camera feed with stable paper detection overlay, confidence indicator, and classification result. |
-| **Spawn** | The morph moment: sketch photo on a world-anchored quad transitioning into the rigged 3D creature. |
-| **Play** | The dog in the scene with the contextual radial command menu, alongside a baseball and tent the user also drew. |
-| **Collection** | The personal gallery of every creature the user has discovered, with sketch thumbnails, confidence, and metadata. |
-
 <div align="center">
 <sub>Built with ARKit · RealityKit · Core ML · Vision · SwiftUI · SwiftData — fully on-device, no servers.</sub>
 </div>
