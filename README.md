@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/USD-FF2D55" alt="USD assets">
 <img src="https://img.shields.io/badge/status-In%20development-7D4DFF" alt="Status: In development">
 </p>
-[**Try it on TestFlight**](https://testflight.apple.com/join/vCpm7E9Z)
+
 <p>
 <a href="#status">Status</a> ·
 <a href="#what-it-does">How it works</a> ·
@@ -25,6 +25,8 @@
 </p>
 
 </div>
+
+[**Try it on TestFlight**](https://testflight.apple.com/join/vCpm7E9Z)
 
 ## The problem
 
