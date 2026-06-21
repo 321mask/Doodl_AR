@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="assets/icon.png" width="120" alt="DoodlAR app icon">
+<img src="DoodlAR Icon.png" width="120" alt="DoodlAR app icon">
 
 # DoodlAR
 
 ### Draw a creature on paper. Point your phone at it. Watch it leap off the page into your room.
 
 <p>
-<img src="https://img.shields.io/badge/iOS-17%2B-000000?logo=apple&logoColor=white" alt="iOS 17+">
+<img src="https://img.shields.io/badge/iOS-26%2B-000000?logo=apple&logoColor=white" alt="iOS 17+">
 <img src="https://img.shields.io/badge/ARKit-2C2C2E?logo=apple&logoColor=white" alt="ARKit">
 <img src="https://img.shields.io/badge/RealityKit-2C2C2E?logo=apple&logoColor=white" alt="RealityKit">
 <img src="https://img.shields.io/badge/Core%20ML-2C2C2E?logo=apple&logoColor=white" alt="Core ML">
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/USD-FF2D55" alt="USD assets">
 <img src="https://img.shields.io/badge/status-In%20development-7D4DFF" alt="Status: In development">
 </p>
-
+[**Try it on TestFlight**](https://testflight.apple.com/join/vCpm7E9Z)
 <p>
 <a href="#status">Status</a> ·
 <a href="#what-it-does">How it works</a> ·
@@ -91,8 +91,8 @@ The most fragile part of an experience like this is the transition. If the sketc
 ## Status
 
 - **Active development** — solo and team commits across detection pipeline, AR interactions, and asset polish.
-- **TestFlight** — *`coming soon`*.
-- **App Store** — *`coming soon`*.
+- **TestFlight** — https://testflight.apple.com/join/vCpm7E9Z
+- **App Store** — *`coming at a later date`*.
 - **Source** — private repository.
 - **Built collaboratively** — small team; my contributions center on the AR interaction layer (dog animation graph, radial menu, baseball/tent behaviors), the multi-USDA animation loader, detection-pipeline stability work, and the overall spawn state machine.
 - **Best experienced on** — an iPhone or iPad Pro with LiDAR. Creature navigation across real-world surfaces is meaningfully richer when scene reconstruction is available.
